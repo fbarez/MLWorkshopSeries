@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg width="640" height="479.99999999999994" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <metadata id="metadata32">image/svg+xml</metadata>
+ <g id="g4">
+  <title>Layer 1</title>
+  <line fill="none" stroke="#000000" stroke-width="5" x1="84.817143" y1="66.483612" x2="84.817143" y2="397.483612" id="svg_1"/>
+  <ellipse fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="1" cx="643.999982" cy="184.533346" id="svg_19"/>
+  <ellipse fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="1" cx="-598.666684" cy="341.866679" id="svg_21"/>
+  <path fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m80.755795,67.2983l3.90468,-8.42789l3.90468,8.42789l-7.80936,0z" id="svg_37" stroke="#000000"/>
+  <ellipse fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" opacity="1" cx="400.956858" cy="395.774382" id="svg_42" rx="0.405915"/>
+  <ellipse fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" opacity="1" cx="-1.769036" cy="19.407698" id="svg_48"/>
+  <g id="svg_53">
+   <line transform="rotate(90 252.6642150878906,395.0328674316407) " x1="252.664218" y1="229.53287" x2="252.664218" y2="560.53285" id="svg_51" stroke-width="5" stroke="#000000" fill="none"/>
+  </g>
+  <circle fill="#ff0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="155.563993" cy="340.362264" r="7.098724" id="svg_55" stroke="#ff0000"/>
+  <circle fill="#ff0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="151.648435" cy="277.713857" r="7.098724" stroke="#ff0000" id="svg_56"/>
+  <circle fill="#ff0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="217.619139" cy="310.461904" r="7.098724" stroke="#ff0000" id="svg_57"/>
+  <circle fill="#ff0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="141.681639" cy="216.489248" r="7.098724" stroke="#ff0000" id="svg_58"/>
+  <circle fill="#ff0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="183.684568" cy="246.389639" r="7.098724" stroke="#ff0000" id="svg_59"/>
+  <circle fill="#0000bf" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="304.578123" cy="231.703115" r="7.098724" stroke="#0000bf" id="svg_60"/>
+  <circle fill="#0000bf" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="235.285154" cy="172.851553" r="7.098724" stroke="#0000bf" id="svg_61"/>
+  <circle fill="#0000bf" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="292.238279" cy="172.851553" r="7.098724" stroke="#0000bf" id="svg_62"/>
+  <circle stroke-linejoin="null" stroke-linecap="null" cx="378.53561" cy="198.21172" r="7.098724" id="svg_63" stroke-width="5" stroke="#0000bf" fill="#0000bf"/>
+  <circle stroke-linejoin="null" stroke-linecap="null" cx="260.91455" cy="126.41805" r="7.098724" id="svg_64" stroke-width="5" stroke="#0000c0" fill="#0000bf"/>
+  <circle fill="#ff0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="216.300779" cy="371.238271" r="7.098724" stroke="#ff0000" id="svg_65"/>
+  <circle stroke-linejoin="null" stroke-linecap="null" cx="387.83173" cy="275.98706" r="7.098724" id="svg_63-2" stroke-width="5" stroke="#0000bf" fill="#0000bf"/>
+  <path transform="rotate(90 423.66766357421875,395.5436401367188) " id="svg_2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m419.762965,399.757567l3.90468,-8.42789l3.90468,8.42789l-7.80936,0z" stroke="#000000"/>
+ </g>
+</svg>
